@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Phu 1",
+        "age": 28,
+        "bday": "11/10/1991",
+        "avatar":"https://th.bing.com/th/id/R.a9becb7f298b7c3f59c17e7982a781cb?rik=1N%2bImz8MgoP5Zw&pid=ImgRaw&r=0",
+        "address": "Hoang Mai"
+    },
+    {
+        "name": "Phu 2",
+        "age": 29,
+        "bday": "12/10/1991",
+        "avatar":"https://preview.redd.it/djqnhkd07gd41.jpg?auto=webp&s=0869b6e5f13a836b1f3a0874dd7a0fb8bccddeb4",
+        "address": "Dong Da"
+    },
+    {
+        "name": "Phu 3",
+        "age": 30,
+        "bday": "13/10/1991",
+        "avatar":"https://i.etsystatic.com/18585439/r/il/f682de/2718189706/il_1588xN.2718189706_hm2t.jpg",
+        "address": "Hai Ba Trung"
+    },
+    {
+        "name": "Phu 4",
+        "age": 31,
+        "bday": "14/10/1991",
+        "avatar":"https://th.bing.com/th/id/OIP.JryFL8e2AIGQdJ5AO4NtLAHaG3?pid=ImgDet&rs=1",
+        "address": "Hoan Kiem"
+    },
+    {
+        "name": "Phu 5",
+        "age": 32,
+        "bday": "15/10/1991",
+        "avatar":"https://th.bing.com/th/id/R.3960ce7f4ffd99493a17d8646582523d?rik=qVRa8VUrqn6gzw&riu=http%3a%2f%2fcincinnatizoo.org%2fsystem%2fassets%2fuploads%2f2011%2f02%2f1896473600_892ed24015_b.jpg&ehk=8ddfnzmhR%2fpZb65Yi0W4N7rf7cJ0DfxUHZzinqq%2bQtI%3d&risl=&pid=ImgRaw&r=0",
+        "address": "Cau Giay"
+    }
+]
